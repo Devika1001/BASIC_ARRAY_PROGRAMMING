@@ -33,6 +33,7 @@ public class UppertringularMatrix {
 	     {
 	    	 for( j=0;j<=a[i].length-1;++j)
 	    	 {
+			 
 		if(i<j)
 		{
 			System.out.print(a[i][j]+"\t");
